@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git Repository
 <br>
-Author --> Naveen
+Author --> Naveen(Pankaj Sir Academy)
